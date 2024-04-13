@@ -525,3 +525,4 @@ If you find that lazygit doesn't quite satisfy your requirements, these may be a
 
 - [GitUI](https://github.com/Extrawurst/gitui)
 - [tig](https://github.com/jonas/tig)
+🎉 Updating the README with the latest sponsors....
