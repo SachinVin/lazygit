@@ -13,7 +13,7 @@ jobs:
 
       - name: Generate Sponsors 💖
         run: |-
-          echo "🎉 Updating the README with the latest sponsors...." >> README.md
+          echo "🎉 Updating the README with the latest sponsors..." >> README.md
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
