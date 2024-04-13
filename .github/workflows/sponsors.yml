@@ -18,6 +18,6 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
-          token: ${{ secrets.SPONSORS_TOKEN }}
           commit-message: "README.md: Update Sponsors"
           delete-branch: true
+          author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
